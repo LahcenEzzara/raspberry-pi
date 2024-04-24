@@ -2,6 +2,8 @@
 
 This README file contains a collection of useful commands for Raspberry Pi.
 
+## Raspberry Pi Documentation
+[https://www.raspberrypi.com/documentation/](https://www.raspberrypi.com/documentation/)
 
 ## Show IP Address
 
@@ -9,8 +11,8 @@ This README file contains a collection of useful commands for Raspberry Pi.
 ifconfig
 ```
 
-## Update and upgrade your Raspberry Pi
+## Update and Upgrade Raspberry Pi
 
 ```bash
-sudo apt update && sudo apt upgrade -y
+sudo apt update && sudo apt upgrade
 ```
