@@ -7,9 +7,10 @@ This README file contains a collection of useful commands for Raspberry Pi.
 
 ```bash
 ifconfig
-
+```
 
 ## Update and upgrade your Raspberry Pi
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+```
